@@ -1,7 +1,6 @@
 <!-- # 🏛️ Blind Auction -->
-<img alt="workshop/auction" width="1412" src="../.resources/auction.png">
 
-A first-price sealed-bid auction in Leo.
+A simple example of auction using Aleo
 
 ## Summary
 
